@@ -1,0 +1,13 @@
+Input:/home/evan/PycharmProjects/zTesting/teamImages
+Input full path:/home/evan/PycharmProjects/zTesting/teamImages
+Camera parameters:500,500,320,240
+Output HOG:teamImages.hog
+Output video:teamImages.avi
+Output aligned directory:teamImages_aligned
+Output csv:teamImages.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

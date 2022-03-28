@@ -1,0 +1,12 @@
+Input:webcam
+Camera parameters:500,500,320,240
+Output HOG:face1calibrationtest0.hog
+Output video:face1calibrationtest0.avi
+Output aligned directory:face1calibrationtest0_aligned
+Output csv:face1calibrationtest0.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1
